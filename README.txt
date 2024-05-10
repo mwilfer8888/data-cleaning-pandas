@@ -1,25 +1,25 @@
-﻿# data-cleaning-pandas
+﻿data-cleaning-pandas
 
 
-#### Eduardo Da Silva, Radley Joseph, Dylan Sedeno, Maya Wilson-Fernandez, Gian F. Villafañe
+Eduardo Da Silva, Radley Joseph, Dylan Sedeno, Maya Wilson-Fernandez, Gian F. Villafañe
 
 
-## Project Overview
+Project Overview
 This project analyzes shark attack data from global sources to identify patterns and trends in shark attack incidents, with a focus on seasonal variations and the influence of Marine Protected Areas. The primary goal is to enhance understanding of when and where shark attacks are most likely to occur and to investigate the effectiveness of Marine Protected Areas in reducing these incidents.
 
 
-## Problem Statement 
+Problem Statement 
   Assessing the correlation between marine protected areas / shark sanctuaries and frequency of shark attacks on humans. 
 
 
-## Hypotheses
+Hypotheses
 - Hypothesis 1 - Shark attacks are less prevalent in Marine Protected Areas due to increased protections and more food sources.
 - Hypothesis 2 - Unprovoked attacks are more prevalent in Marine Protected Areas.
 - Hypothesis 3 - Shark attacks are more prevalent in warmer seasons like spring and summer. 
 
 
-## Data Structuring 
-### Data Cleaning and Formatting:
+Data Structuring 
+Data Cleaning and Formatting:
 - Date Columns:
   - Removes prefixes like "Before" from date strings.
   - Replaces spaces with hyphens to standardize date formats.
@@ -43,6 +43,6 @@ This project analyzes shark attack data from global sources to identify patterns
     - Adjusts settings to display all columns in the output, ensuring comprehensive visibility during analysis.
 
 
-## Sources
+Sources
 - NOAA. (n.d.). The MPA Inventory. The MPA Inventory | National Marine Protected Areas Center. https://marineprotectedareas.noaa.gov/dataanalysis/mpainventory/ 
 - Shark Research Institute. (n.d.). Incident Log. Retrieved from https://www.sharkattackfile.net/incidentlog.htm
