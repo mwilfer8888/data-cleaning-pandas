@@ -1,19 +1,34 @@
-﻿data-cleaning-pandas
+<<<<<<< HEAD
+
 
 
 Eduardo Da Silva, Radley Joseph, Dylan Sedeno, Maya Wilson-Fernandez, Gian F. Villafañe
+=======
+
+
+####Eduardo Da Silva, Radley Joseph, Dylan Sedeno, Maya Wilson-Fernandez, Gian F. Villafañe
+>>>>>>> 18f862c347b561ecdf53fa97c984e9b0e3dfb795
 
 
 Project Overview
 This project analyzes shark attack data from global sources to identify patterns and trends in shark attack incidents, with a focus on seasonal variations and the influence of Marine Protected Areas. The primary goal is to enhance understanding of when and where shark attacks are most likely to occur and to investigate the effectiveness of Marine Protected Areas in reducing these incidents.
 
 
+<<<<<<< HEAD
 Problem Statement 
   Assessing the correlation between marine protected areas / shark sanctuaries and frequency of shark attacks on humans. 
 
 
 Hypotheses
 - Hypothesis 1 - Shark attacks are less prevalent in Marine Protected Areas due to increased protections and more food sources.
+=======
+## Problem Statement 
+  Assessing the correlation between marine protected areas/shark sanctuaries and the frequency of shark attacks on humans. 
+
+
+## Hypotheses
+- Hypothesis 1 - Shark attacks are less prevalent in Marine Protected Areas due to increased protection and more food sources.
+>>>>>>> 18f862c347b561ecdf53fa97c984e9b0e3dfb795
 - Hypothesis 2 - Unprovoked attacks are more prevalent in Marine Protected Areas.
 - Hypothesis 3 - Shark attacks are more prevalent in warmer seasons like spring and summer. 
 
