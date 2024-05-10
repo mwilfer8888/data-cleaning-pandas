@@ -1,7 +1,7 @@
-﻿# data-cleaning-pandas
+﻿#data-cleaning-pandas
 
 
-#### Eduardo Da Silva, Radley Joseph, Dylan Sedeno, Maya Wilson-Fernandez, Gian F. Villafañe
+####Eduardo Da Silva, Radley Joseph, Dylan Sedeno, Maya Wilson-Fernandez, Gian F. Villafañe
 
 
 ## Project Overview
